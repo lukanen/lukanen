@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @lukanen.
+- 👀 I’m interested in inspecting the linguistic and regional disparities in the (voluntary) implementation of digital policies with a focus on privacy and platform regulation.
+- 🌱 I’m currently learning web scraping, machine learning, and natural language processing.
+- 📫 How to reach me: lnenadic@ethz.ch
